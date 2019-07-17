@@ -104,3 +104,9 @@ body {
 .mastfoot {
   color: rgba(255, 255, 255, .5);
 }
+
+/* extra customizing */
+
+.marginset {
+  margin-bottom: 0.8em;
+}
